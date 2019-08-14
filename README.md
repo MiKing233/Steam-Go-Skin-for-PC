@@ -2,9 +2,10 @@
 A Steam Skin Bulid and Powered by Metro
 一个Steam 皮肤构建基于 Metro
 
-![Default Configuration](https://i.imgur.com/o9v9CGH.png)
- 
 [Download 下载](https://github.com/MiKing233/Steam-Go-Skin-for-PC/releases)  
+
+![Default Configuration](https://i.imgur.com/o9v9CGH.png)
+
 
 ## Installation 安装
 1. Download the skin, extract the zip file, and copy the folder to:
