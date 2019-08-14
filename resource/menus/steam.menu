@@ -4,7 +4,7 @@
 	{
 		text=""
 		text = [$OSX]	"#SteamRootAccount"
-		SkinVersion			{	text="Steam Go for PC - 1.0.0 Beta"		shellcmd="steam://openurl/https://drive.google.com/drive/folders/1KvmDrEl-vpDh3M4zrglGEVUM3MEDHwY0?usp=sharing/" }
+		SkinVersion			{	text="Steam Go Skin for PC - v1.0.0"		shellcmd="steam://openurl/https://github.com/MiKing233/Steam-Go-Skin-for-PC" }
 		Website			{	text="Build and Powered by Metro"		shellcmd="steam://openurl/https://metroforsteam.com/" }
 		Divider {}
 		NewForYou						{	text="#SteamUI_GameProperties_UpdateNews"		shellcmd="steam://open/newforyou" }
