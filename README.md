@@ -2,7 +2,7 @@
 A Steam Skin Bulid and Powered by Metro
 一个Steam 皮肤构建基于 Metro
 
-![Default Configuration](https://i.imgur.com/AKguUKE.png)
+![Default Configuration](https://imgur.com/a/Tv9MwGp.png)
  
 [Download 下载](https://github.com/MiKing233/Steam-Go-Skin-for-PC/releases)  
 
