@@ -824,7 +824,7 @@ steam.styles
 			padding-right=5
 			textcolor="White50"
 			selectedtextcolor="White"
-			selectedbgcolor="NewRed01"
+			selectedbgcolor="Focus"
 			shadowtextcolor="White50"	// the color of disabled line items
 			render {}
 			render_bg {}
@@ -877,15 +877,15 @@ steam.styles
 			textcolor="white"
     }
 
-    "GameItem_Updating" //列表升级
+    "GameItem_Updating"
     {
-    	textcolor="NewRed01"
+    	textcolor="Focus"
     	selectedtextcolor="White"
     }
 
-    "GameItem_Updating:hover" //列表升级:悬停
+    "GameItem_Updating:hover"
     {
-    	textcolor="NewRed01"
+    	textcolor="Focus"
     }
 
     "GameItem_Decrypting"
