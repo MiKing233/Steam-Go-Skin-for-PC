@@ -163,6 +163,6 @@
 	{
 		place { control="frame_minimize,frame_maximize,frame_close" align=right width=40 height=40 margin-right=1 }
 
-		place { control="InfoLabel2,Button1" align=right width=84 height=28 }
+		place { control="InfoLabel2" align=right width=84 height=28 }
 	}
 }

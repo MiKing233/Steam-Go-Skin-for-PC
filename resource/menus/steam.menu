@@ -4,8 +4,8 @@
 	{
 		text=""
 		text = [$OSX] "#SteamRootAccount"
-		SkinVersion		      { text="Steam Go Skin for PC - v1.1.0"	    shellcmd="steam://openurl/https://github.com/MiKing233/Steam-Go-Skin-for-PC" }
-		Website			      { text="Build and Powered by Metro"		    shellcmd="steam://openurl/https://metroforsteam.com/" }
+		SkinVersion		      { text="Steam Go Skin for PC - v1.2.0"	    shellcmd="steam://openurl/https://github.com/MiKing233/Steam-Go-Skin-for-PC" }
+		Website			      { text="Build and Powered by Metro - v4.4"		    shellcmd="steam://openurl/https://metroforsteam.com/" }
 		Divider               { }
 		NewForYou		      { text="#SteamUI_GameProperties_UpdateNews"   shellcmd="steam://open/newforyou" }
 		CheckForUpdates	      { text="#steam_menu_checkforupdates"		    command="CheckForUpdates" }
@@ -25,7 +25,7 @@
 		ViewPlayerList	      { text="#steam_menu_view_players"		    	shellcmd="steam://friends/players" }
 		Servers			      { text="#steam_menu_servers"			    	shellcmd="steam://open/servers" }
 		Screenshots		      { text="#steam_screenshots"			    	command="Screenshots" }
-		Downloads	          { text="#steam_menu_downloads"			    shellcmd="steam://nav/downloads" }
+		// Downloads	          { text="#steam_menu_downloads"			    shellcmd="steam://nav/downloads" }
 		Inventory		      { text="#steam_inventory"					    shellcmd="steam://open/inventory" }
 		Divider               { }
 		ActivateRetail		  { text="#Steam_RegisterProductCode"			command="ActivateRetail" }
