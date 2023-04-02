@@ -10,7 +10,6 @@
 ::-webkit-scrollbar-thumb:vertical {
 	background-repeat: no-repeat;
 	background-position: center;
-	box-shadow: -1px 0 0 #000000;
 }
 
 ::-webkit-scrollbar-button:horizontal,
@@ -18,7 +17,6 @@
 ::-webkit-scrollbar-thumb:horizontal {
 	background-repeat: no-repeat;
 	background-position: center;
-	box-shadow: 0 -1px 0 #000000;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -83,4 +81,21 @@
 ::-webkit-scrollbar-button:horizontal:increment:hover {
 	width: 22px;
 background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAX7+ciytYAAAAI0lEQVQI12Ngc2BgYJzAwMCQAsSSQAwSYGoA0RB+CkgezAUAUN4Dt/sHRo4AAAAASUVORK5CYII=);
+}
+
+/* Fix Activity Popups width */
+.flat_page .modal_frame{
+	width: 97% !important;
+	left: 0px !important;
+
+	margin: 0px 40px 0px 10px !important;
+}
+/* Fix Activity Popups not being scrollable */
+#modalContentFrameContainer{
+	height: 100% !important;
+	overflow: scroll !important;
+}
+/* Fix scrollbar not showing in Activity Popups ( RIP iframes )*/
+.flat_page #modalContentFrameContainer .modalContent_iFrame {
+  height: 900% !important;
 }
